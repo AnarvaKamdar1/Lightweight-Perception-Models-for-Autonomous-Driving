@@ -4,9 +4,13 @@ Segmentation-based autonomous driving model built as part of the Visual Computin
 ## 1. Structure:
 
 |--training.ipynb
+
 |--inference.ipynb
+
 |--model.h5
+
 |--test_images.zip
+
 |--README.md
 
 ## 2. Dataset:
