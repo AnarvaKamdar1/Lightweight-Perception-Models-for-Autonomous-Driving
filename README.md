@@ -43,3 +43,11 @@ A small set of sample images is provided in test_images.zip for running inferenc
 1. Download the Dataset from Kaggle and place it appropriately in the project folder. (preferably Google drive if using Colab).
 2. Run Lightweight_Model.ipynb to train the model and save model file as m1.h5.
 3. Load the test images and m1.h5 file, and run inference.ipynb for results.
+
+## Results
+
+![Result 1](r1.png)
+![Result 2](r2.png)
+![Result 3](r3.png)
+![Result 4](r4.png)
+![Result 5](r5.png)
