@@ -3,15 +3,16 @@ Segmentation-based autonomous driving model built as part of the Visual Computin
 
 ## 1. Structure:
 
-|--training.ipynb
+## Repository Structure
 
-|--inference.ipynb
-
-|--model.h5
-
-|--test_images.zip
-
-|--README.md
+```bash
+Segmentation-Autonomous-Driving/
+│── Light_weight_model.ipynb      # Training notebook
+│── inference.ipynb               # Inference notebook
+│── model.h5                      # Saved trained model (optional / if included)
+│── test_images.zip               # Sample images for inference
+│── bdd100k/                      # Dataset folder (not included in repo)
+└── README.md
 
 ## 2. Dataset:
 
