@@ -13,7 +13,7 @@ Segmentation-Autonomous-Driving/
 │── test_images.zip               # Sample images for inference
 │── bdd100k/                      # Dataset folder (not included in repo)
 └── README.md
-
+```
 ## 2. Dataset:
 
 This project uses the BDD100K dataset (Berkeley DeepDrive 100K) for semantic segmentation.  
