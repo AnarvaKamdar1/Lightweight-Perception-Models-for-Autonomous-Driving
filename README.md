@@ -9,9 +9,12 @@ Segmentation-based autonomous driving model built as part of the Visual Computin
 Segmentation-Autonomous-Driving/
 │── Light_weight_model.ipynb      # Training notebook
 │── inference.ipynb               # Inference notebook
-│── model.h5                      # Saved trained model (optional / if included)
+│── m1.h5                         # Saved trained model
 │── test_images.zip               # Sample images for inference
 │── bdd100k/                      # Dataset folder (not included in repo)
+|── r1.png                        # Sample prediction image
+|── r2.png                        # Sample prediction image
+|── r3.png                        # Sample prediction image
 └── README.md
 ```
 ## Dataset:
@@ -49,5 +52,4 @@ A small set of sample images is provided in test_images.zip for running inferenc
 ![Result 1](r1.png)
 ![Result 2](r2.png)
 ![Result 3](r3.png)
-![Result 4](r4.png)
-![Result 5](r5.png)
+
