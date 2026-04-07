@@ -12,9 +12,9 @@ Segmentation-Autonomous-Driving/
 │── m1.h5                         # Saved trained model
 │── test_images.zip               # Sample images for inference
 │── bdd100k/                      # Dataset folder (not included in repo)
-|── r1.png                        # Sample prediction image
-|── r2.png                        # Sample prediction image
-|── r3.png                        # Sample prediction image
+│── r1.png                        # Sample prediction image
+│── r2.png                        # Sample prediction image
+│── r3.png                        # Sample prediction image
 └── README.md
 ```
 ## Dataset:
