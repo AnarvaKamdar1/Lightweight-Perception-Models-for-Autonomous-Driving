@@ -15,6 +15,8 @@ Segmentation-Autonomous-Driving/
 │── r1.png                        # Sample prediction image
 │── r2.png                        # Sample prediction image
 │── r3.png                        # Sample prediction image
+│── r4.png                        # Sample prediction image
+│── r5.png                        # Sample prediction image
 └── README.md
 ```
 ## Dataset:
