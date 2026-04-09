@@ -3,8 +3,6 @@ Segmentation-based autonomous driving model built as part of the Visual Computin
 
 ## Structure:
 
-## Repository Structure
-
 ```bash
 Segmentation-Autonomous-Driving/
 │── Light_weight_model.ipynb      # Training notebook
